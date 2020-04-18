@@ -1,0 +1,16 @@
+gigit clone url ek
+
+thanata yanawa 
+2020
+git status
+
+git checkout name(Supun)
+
+git add .
+
+git commit -m "crete new project"
+
+git push
+
+
+git fgit etch
